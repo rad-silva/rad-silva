@@ -1,42 +1,34 @@
-<img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=0EC33D&height=120&section=header"/>
-
-[![Typing SVG](https://readme-typing-svg.herokuapp.com/?color=0EC33D&size=35&center=true&vCenter=true&width=1200&lines=HELLO,+My+name+is+Ricardo+Araújo;I'm+from+Brazil;I+am+an+undergraduated+student+in+Computer+Engeneering;Be+Welcome!+:%29)](https://git.io/typing-svg)
-
-[![Ashutosh's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=rad-silva&bg_color=0d1117&color=b13583&line=63C67D&point=96F1AE&area=true&hide_border=true)](https://github.com/ashutosh00710/github-readme-activity-graph)
 
 
+<img align="right" height="590em" src="https://raw.githubusercontent.com/gist/rad-silva/a4f4b4868f1e47726b109713de65a10c/raw/2e3498796aed23e1a327de27e9e87b6091f895cb/githubcard.svg"/>
+
+<h1 align="left">Hi, I'm Ricardo Araújo</h1>
+
+<!-- <p align="left"> <img src="https://komarev.com/ghpvc/?username=rad-silva&color=yellow" alt="Profile views" /> </p> -->
+
+<!-- - 🔥 Sênior Web Developer & Instructor focused on helping people start programming  -->
+
+- 🔭 I’m currently a student in Computer Engineering at [UFSCar](https://site.dc.ufscar.br/)
+
+<!-- - ▶️ I (not) regularly post videos on [youtube.com/maykbrito](https://youtube.com/maykbrito) -->
+
+- 💬 Ask me about **C++, Python, HTML, CSS, SQL**
+
+- ⚡ Fun fact **Machine Learning, Computer Vision, Data Analytics 😜**
+
+<!--  - 👨‍💻 More at [maykbrito.dev](https://maykbrito.dev) -->
 
 
-<div align="center">  
-  <img width="49%" height="195px" src="https://github-readme-stats.vercel.app/api?username=carolbarbosa101&show_icons=true&count_private=true&hide_border=true&title_color=ff91a4&icon_color=ff91a4&text_color=c9d1d9&bg_color=0d1117" alt="Caroline Barbosa github stats" /> 
-  <img width="41%" height="195px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=carolbarbosa101&layout=compact&hide_border=true&title_color=ff91a4&text_color=ff91a4&bg_color=0d1117" />
-</div>
+## Contact
 
-
-<div align="center"> 
-<a href="https://instagram.com/carol_developer" target="_blank"><img src="https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white"</a>
-<a href="https://www.youtube.com/channel/UCvFCatDtfdvwKKXkndSAPiw" target="_blank"><img src="https://img.shields.io/badge/YouTube-FF0000?style=for-the-badge&logo=youtube&logoColor=white" target="_blank"></a>
-<a href = "mailto:cmp.1a.caroline@gmail.com"> <img src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
-<a href="https://www.linkedin.com/in/carolbarbosa/" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" style="border-radius: 30px" target="_blank"></a> 
- </div>
- 
- ### Main skills:
-![JavaScript](https://img.shields.io/badge/-JavaScript-0D1117?style=for-the-badge&logo=javascript&labelColor=0D1117)&nbsp;
-![CSS](https://img.shields.io/badge/-CSS-0D1117?style=for-the-badge&logo=CSS3&logoColor=1572B6&labelColor=0D1117)&nbsp;
-![React.js](https://img.shields.io/badge/-React.js-0D1117?style=for-the-badge&logo=react&labelColor=0D1117)&nbsp;
-![Php](https://img.shields.io/badge/-php-0D1117?style=for-the-badge&logo=php&logoColor=purple&labelColor=0D1117)&nbsp; 
-
-
-### Studying in this moment:
-![React.js](https://img.shields.io/badge/-React.js-0D1117?style=for-the-badge&logo=react&labelColor=0D1117)&nbsp;
-![Typescript](https://img.shields.io/badge/-JavaScript-0D1117?style=for-the-badge&logo=javascript&labelColor=0D1117&textColor=0D1117)&nbsp;
-![Node.JS](https://img.shields.io/badge/-Node.JS-0D1117?style=for-the-badge&logo=node.js&labelColor=0D1117&textColor=0D1117)&nbsp;
-
-<div align="center">
-<br><p align="centre"><b>Visitors Count</b></p>  
-<p align="center"><img align="center" src="https://profile-counter.glitch.me/{carolbarbosa101}/count.svg" /></p> 
-<br>
-</div>
-
-
-<img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=ff91a4&height=120&section=footer"/>
+<p align="left" style="background:yellow">
+<a href="radsilva@outlook.com.br" target="_blank">
+  <img align="center" src="https://img.shields.io/badge/-radsilva@outlook.com.br-05122A?style=flat&logo=microsoftoutlook" alt="codepen"/>
+</a>
+<a href="https://www.linkedin.com/in/rad-silva" target="_blank">
+  <img align="center" src="https://img.shields.io/badge/-rad–silva-05122A?style=flat&logo=linkedin" alt="linkedin"/>
+</a>
+<a href="https://instagram.com/ricardoarauss" target="_blank">
+ <img align="center" src="https://img.shields.io/badge/-ricardoarauss-05122A?style=flat&logo=instagram" alt="instagram"/>
+</a>
+</p>
