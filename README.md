@@ -22,7 +22,7 @@
 ## Contact
 
 <p align="left" style="background:yellow">
-<a href="radsilva@outlook.com.br" target="_blank">
+<a href="mailto:radsilva@outlook.com.br" target="_blank">
   <img align="center" src="https://img.shields.io/badge/-radsilva@outlook.com.br-05122A?style=flat&logo=microsoftoutlook" alt="codepen"/>
 </a>
 <a href="https://www.linkedin.com/in/rad-silva" target="_blank">
